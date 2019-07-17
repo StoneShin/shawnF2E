@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/StoneShin/shawnF2E/2/static/css/main.2cce8147.chunk.css",
-    "main.js": "/StoneShin/shawnF2E/2/static/js/main.cb126ed5.chunk.js",
-    "main.js.map": "/StoneShin/shawnF2E/2/static/js/main.cb126ed5.chunk.js.map",
-    "runtime~main.js": "/StoneShin/shawnF2E/2/static/js/runtime~main.3081686b.js",
-    "runtime~main.js.map": "/StoneShin/shawnF2E/2/static/js/runtime~main.3081686b.js.map",
-    "static/js/2.b41502e9.chunk.js": "/StoneShin/shawnF2E/2/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/StoneShin/shawnF2E/2/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/StoneShin/shawnF2E/2/index.html",
-    "precache-manifest.8d1d62e43fbd9bc46f87a3c8018fc5cd.js": "/StoneShin/shawnF2E/2/precache-manifest.8d1d62e43fbd9bc46f87a3c8018fc5cd.js",
-    "service-worker.js": "/StoneShin/shawnF2E/2/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/StoneShin/shawnF2E/2/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/StoneShin/shawnF2E/2/static/media/logo.5d5d9eef.svg"
+    "main.css": "/shawnF2E/static/css/main.2cce8147.chunk.css",
+    "main.js": "/shawnF2E/static/js/main.992ac461.chunk.js",
+    "main.js.map": "/shawnF2E/static/js/main.992ac461.chunk.js.map",
+    "runtime~main.js": "/shawnF2E/static/js/runtime~main.0642f28e.js",
+    "runtime~main.js.map": "/shawnF2E/static/js/runtime~main.0642f28e.js.map",
+    "static/js/2.b41502e9.chunk.js": "/shawnF2E/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/shawnF2E/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/shawnF2E/index.html",
+    "precache-manifest.e4fb182730f413fa0d4d3a98470739d2.js": "/shawnF2E/precache-manifest.e4fb182730f413fa0d4d3a98470739d2.js",
+    "service-worker.js": "/shawnF2E/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/shawnF2E/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/shawnF2E/static/media/logo.5d5d9eef.svg"
   }
 }
