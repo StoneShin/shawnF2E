@@ -1,0 +1,25 @@
+.panelHorizontal {
+    width: 500px;
+    height: 100vh;
+    transform: translateX(-220px);
+    transition: transform 400ms ease-in;
+    box-shadow: 5px 0 5px -5px black;
+  }
+  .panelHorizontal.slideIn {
+    transform: translateX(0);
+  }
+  .panelHorizontal.slideOut {
+    transform: translateX(-220px);
+  }
+  
+  .title {
+    cursor: pointer;
+  }
+
+  .hideColl{
+      visibility: hidden;
+  }
+
+  .visColl{
+    visibility: visible;
+}
