@@ -78,7 +78,7 @@ class App extends Component {
 
 
                             <Col>
-                                <button>未完成</button>
+                                <button className="Analysis-list-size-16">未完成</button>
                                 <button>已完成</button>
                             </Col>
                         </Row>

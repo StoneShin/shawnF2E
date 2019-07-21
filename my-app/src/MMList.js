@@ -78,29 +78,34 @@ class App extends Component {
 
 
                             <Col>
-                                <button>未完成</button>
-                                <button>已完成</button>
+                                {/* <p className="Analysis-list-size-16">未完成已完成</p> */}
+                                <div className="Analysis-list-size-16">未完成  已完成</div>
+                                {/* <button className="Analysis-list-size-16">已完成</button> */}
                             </Col>
                         </Row>
                         <Row>
                             <Col className="App-body-center" >
                                 <div>
+
+                                    <div>
                                     <InputGroup className="mb-3">
                                         <FormControl
                                             placeholder="新增待辦清單"
                                             aria-label="Recipient's username"
                                             aria-describedby="basic-addon2"
-                                        />
-                                        <InputGroup.Append>
-                                            <Button className="button-background" variant="outline-secondary">Button</Button>
-                                        </InputGroup.Append>
+                                            className=""
+                                        />       
+                                        <Button >送出</Button>                            
                                     </InputGroup>
+                                    
+                                    </div>
+                                    
 
                                     <ListGroup variant="flush">
-                                        <ListGroup.Item className="list-background">構思</ListGroup.Item>
-                                        <ListGroup.Item className="list-background">Dapibus ac facilisis in</ListGroup.Item>
-                                        <ListGroup.Item className="list-background">Morbi leo risus</ListGroup.Item>
-                                        <ListGroup.Item className="list-background">Porta ac consectetur ac</ListGroup.Item>
+                                        <ListGroup.Item className="list-background">學習React</ListGroup.Item>
+                                        <ListGroup.Item className="list-background">把畫面弄完整</ListGroup.Item>
+                                        <ListGroup.Item className="list-background">加上js功能</ListGroup.Item>
+                                        <ListGroup.Item className="list-background">優化畫面</ListGroup.Item>
                                     </ListGroup>
                                 </div>
 
