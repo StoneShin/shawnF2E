@@ -5,14 +5,28 @@ import App from './App';
 import SildBar from './SideBar';
 import SildBar2 from './SlideBar2';
 import CollapseTest from './CollapseTest';
+import MMRouteApp from './MMRouteApp';
+import MMHome from './MMHome';
+
+import { BrowserRouter, Switch } from 'react-router-dom';
+
+
 
 
 import * as serviceWorker from './serviceWorker';
 
 // ReactDOM.render(<App />, document.getElementById('root'));
 // ReactDOM.render(<SildBar />, document.getElementById('root'));
-ReactDOM.render(<CollapseTest />, document.getElementById('root'));
+// ReactDOM.render(<MMRouteApp />, document.getElementById('root'));
 
+ReactDOM.render(
+    <BrowserRouter>
+      <Switch>
+        <MMHome />
+      </Switch>
+    </BrowserRouter>,
+    document.getElementById('root')
+  );
 
 
 

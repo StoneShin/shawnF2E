@@ -73,6 +73,41 @@
   justify-content: center;
 }
 
+.List-shadow{
+  box-shadow: 5px 0 5px -5px black;
+}
+
+.vertical {
+  float: left;
+  width: 100%;
+  text-align: center;
+}
+
+.Analysis-border{
+  border-radius: 8px 8px 8px 8px;
+	border: 1px solid #E8E8E8;  
+}
+
+.Analysis-list-size{
+  font-size: 80px;
+  color: #6C9460;
+}
+
+
+.Analysis-list-size-orange{
+  font-size: 80px;
+  color: #F08448;
+}
+
+.Analysis-list-size-16{
+  font-size: 16px;
+  color: #E8E8E8;
+}
+
+.Analysis-text-center{
+  text-align: center;
+}
+
 .navbarToggleExternalContent{
   transform: translateX(-100%);
   transition: transform .35s ease;
