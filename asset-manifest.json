@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/shawnF2E/static/css/main.2cce8147.chunk.css",
-    "main.js": "/shawnF2E/static/js/main.992ac461.chunk.js",
-    "main.js.map": "/shawnF2E/static/js/main.992ac461.chunk.js.map",
+    "main.css": "/shawnF2E/static/css/main.e079021f.chunk.css",
+    "main.js": "/shawnF2E/static/js/main.49c37a40.chunk.js",
+    "main.js.map": "/shawnF2E/static/js/main.49c37a40.chunk.js.map",
     "runtime~main.js": "/shawnF2E/static/js/runtime~main.0642f28e.js",
     "runtime~main.js.map": "/shawnF2E/static/js/runtime~main.0642f28e.js.map",
-    "static/js/2.b41502e9.chunk.js": "/shawnF2E/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/shawnF2E/static/js/2.b41502e9.chunk.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/shawnF2E/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.c0dd8240.chunk.js": "/shawnF2E/static/js/2.c0dd8240.chunk.js",
+    "static/js/2.c0dd8240.chunk.js.map": "/shawnF2E/static/js/2.c0dd8240.chunk.js.map",
     "index.html": "/shawnF2E/index.html",
-    "precache-manifest.e4fb182730f413fa0d4d3a98470739d2.js": "/shawnF2E/precache-manifest.e4fb182730f413fa0d4d3a98470739d2.js",
+    "precache-manifest.c2a1e248fb6c7606046840efe9dc37b2.js": "/shawnF2E/precache-manifest.c2a1e248fb6c7606046840efe9dc37b2.js",
     "service-worker.js": "/shawnF2E/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/shawnF2E/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/shawnF2E/static/media/logo.5d5d9eef.svg"
+    "static/css/2.22a7d4ef.chunk.css.map": "/shawnF2E/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.e079021f.chunk.css.map": "/shawnF2E/static/css/main.e079021f.chunk.css.map",
+    "static/media/icon-analysis.svg": "/shawnF2E/static/media/icon-analysis.e96b4269.svg",
+    "static/media/icon-bell.svg": "/shawnF2E/static/media/icon-bell.526aed07.svg",
+    "static/media/icon-cancel.svg": "/shawnF2E/static/media/icon-cancel.872654be.svg",
+    "static/media/icon-list.svg": "/shawnF2E/static/media/icon-list.c5316630.svg",
+    "static/media/logo.svg": "/shawnF2E/static/media/logo.5d5d9eef.svg",
+    "static/media/orange.svg": "/shawnF2E/static/media/orange.a185f0b0.svg",
+    "static/media/App.css": "/shawnF2E/static/media/tomato--orange.f4d25225.svg"
   }
 }
