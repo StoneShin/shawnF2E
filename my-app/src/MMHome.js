@@ -81,7 +81,7 @@ class App extends Component {
             <Row className="show-grid" >
               <Col md="1" className="App-nav-background" >
                 <div >
-                <Link  to="/list">
+                <Link  to="/pomolist">
                 <p onClick={this._menuToggle} ><img src={icon_list} /></p>
                 </Link>
                  
@@ -92,7 +92,7 @@ class App extends Component {
               </Col>
               <Col md="11" className="App-body-background-image-orange">
                 <Route path="/" exact component={MMHome2} />
-                <Route path="/list" component={MMList} />
+                <Route path="/pomolist" component={MMList} />
                 <Route path="/analysis" component={MMAnalysis} />
 
                 {/* <Route path="/" exact component={APP1} /> */}
