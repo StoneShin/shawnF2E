@@ -20,7 +20,7 @@ import * as serviceWorker from './serviceWorker';
 // ReactDOM.render(<MMRouteApp />, document.getElementById('root'));
 
 ReactDOM.render(
-    <BrowserRouter>
+    <BrowserRouter basename = { process.env.PUBLIC_URL }>
       <Switch>
         <MMHome />
       </Switch>
